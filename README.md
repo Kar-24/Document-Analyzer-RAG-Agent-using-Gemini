@@ -26,6 +26,13 @@ The final result is:
 - a spoken audio version of that answer
 - a short list of document sources used
 
+<img width="1839" height="918" alt="Screenshot 2026-04-24 171139" src="https://github.com/user-attachments/assets/2865d339-2bf8-4739-bc2c-3d3ab4cb917f" />
+
+<img width="1517" height="899" alt="Screenshot 2026-04-24 171213" src="https://github.com/user-attachments/assets/ba4da336-2905-48df-a1ff-dec79b403157" />
+
+<img width="1668" height="921" alt="Screenshot 2026-04-24 171234" src="https://github.com/user-attachments/assets/0d4eee52-c554-48ee-b282-4305022a96ba" />
+
+
 ### For People New to These Technologies
 
 Here is what each major piece is doing in simple terms:
